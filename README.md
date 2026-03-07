@@ -27,7 +27,7 @@ The system supports **multi‑turn conversations**, **tool‑based reasoning**, 
 
 ### ▶ Video 1: End‑to‑End Banking Support Agent Demo
 
-[![Watch Video 1](video1_thumbnail.png)](https://ibm-my.sharepoint.com/:v:/p/master_tanup_vats/IQCRf7rgev-3SqoiyCPAzwHkAZFPRLM5Tr6ldBiZnDUK40Q)
+[![Watch Video 1](video1_thumbnail.png)](https://drive.google.com/file/d/173hv_cGUrVtFUkclIasx5xOO6Le9X-iO/view?usp=sharing)
 
 **Covers:**
 - Multi‑turn conversation handling
@@ -38,7 +38,7 @@ The system supports **multi‑turn conversations**, **tool‑based reasoning**, 
 
 ### ▶ Video 2: LangGraph & LangSmith Trace Walkthrough
 
-[![Watch Video 2](video2_thumbnail.png)](https://ibm-my.sharepoint.com/:v:/p/master_tanup_vats/IQAXf2cnjFuYTpGT2LzSMS1zAfv4sCbUllVqZXvJG4591rc)
+[![Watch Video 2](video2_thumbnail.png)](https://drive.google.com/file/d/1EEGi92FMM43aVaIRJvYSaVclPWQPuRsT/view?usp=sharing)
 
 **Covers:**
 - LangGraph node execution
