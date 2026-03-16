@@ -27,7 +27,7 @@ The system supports **multi‑turn conversations**, **tool‑based reasoning**, 
 
 ### ▶ Video 1: End‑to‑End Banking Support Agent Demo
 
-[![Watch Video 1](video1_thumbnail.png)](https://drive.google.com/file/d/173hv_cGUrVtFUkclIasx5xOO6Le9X-iO/view?usp=sharing)
+[![Watch Video 1](CSA_demo.gif)](https://drive.google.com/file/d/173hv_cGUrVtFUkclIasx5xOO6Le9X-iO/view?usp=sharing)
 
 **Covers:**
 - Multi‑turn conversation handling
