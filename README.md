@@ -176,4 +176,3 @@ python chat_cli.py
 ##  Author
 
 **Tanup Vats**  
-Senior Data Scientist
