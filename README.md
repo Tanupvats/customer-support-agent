@@ -115,7 +115,7 @@ This project is fully instrumented with **LangSmith**. You can inspect:
 - Multi‑turn threads by `session_id`
 
 
-## ▶ Running the Project
+## Running the Project
 
 ### Step 1:  Install Dependencies
 ```bash
